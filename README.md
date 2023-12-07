@@ -1,5 +1,7 @@
 # This is a simple book store app created with Next.js 14, Typescript, Redux Toolkit & Tailwind CSS
 
+## It is hosted on vercel https://book-store-rajat.vercel.app/
+
 ## Motivation behind using this tools
 
 - Next.js: Helped to achieve server side rendering using Server Components and Prefetching
